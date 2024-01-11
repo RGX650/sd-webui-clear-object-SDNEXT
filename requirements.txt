@@ -5,4 +5,4 @@ numpy==1.23.4
 opencv-python==4.8.0.76
 scikit-image==0.19.3
 transformers==4.27.4
-neuralgym011
+neuralgym @ git+https://github.com/nirnayroy/neuralgym.git@41f9089ca876ff1943629d4fb976448dc92b7efa
