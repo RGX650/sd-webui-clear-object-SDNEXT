@@ -5,3 +5,4 @@ numpy==1.23.4
 opencv-python==4.8.0.76
 scikit-image==0.19.3
 transformers==4.27.4
+neuralgym011
