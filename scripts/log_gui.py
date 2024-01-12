@@ -48,7 +48,7 @@ def on_ui_tabs():
         components = {}
         with gr.Column():
             run_view()
-    return [(mylogs_interface, "mylogs", "mylogs_interface")]
+    return [(mylogs_interface, "Clear Object", "mylogs_interface")]
 
 
 def on_ui_settings():
