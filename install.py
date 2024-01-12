@@ -17,5 +17,5 @@ with open(req_file) as file:
             launch.run_pip(f"install {lib}", f"clear object requirement: {lib}")
 
 # Install neuralgym from Git with specific commit hash
-neuralgym_repo_url = "https://github.com/nirnayroy/neuralgym.git@41f9089ca876ff1943629d4fb976448dc92b7efa"
+neuralgym_repo_url = "https://github.com/JiahuiYu/neuralgym.git"
 launch.run_pip(f"install git+{neuralgym_repo_url}", "clear object requirement: neuralgym")
