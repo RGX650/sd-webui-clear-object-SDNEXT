@@ -14,4 +14,5 @@ https://drive.google.com/drive/folders/1y7Irxm3HSHGvp546hZdAZwuNmhLUVcjO
 ### Download pip modules
 ```
 pip install git+https://github.com/nirnayroy/neuralgym.git
+pip install git+https://github.com/RGX650/neuralgym.git
 ```
