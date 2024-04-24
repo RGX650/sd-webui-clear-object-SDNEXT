@@ -20,5 +20,6 @@ with open(req_file) as file:
 #neuralgym_repo_url = "https://github.com/nirnayroy/neuralgym.git"
 #launch.run_pip(f"install git+{neuralgym_repo_url}", "clear object requirement: neuralgym")
 
-neuralgym_repo_url = "https://github.com/bg1szd/neuralgym"
+#neuralgym_repo_url = "https://github.com/bg1szd/neuralgym"
+neuralgym_repo_url = "https://github.com/RGX650/neuralgym-SDNEXT"
 launch.run_pip(f"install git+{neuralgym_repo_url}")
